@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there, I am Grace 👋
 
-My name is Haeun. You can call me Grace. I am a front end developer.
+### I am a Front End Developer
+
+<!-- - I am proficient in creating responsive web applications with HTML5, CSS3, SCSS
+- I am skilled in JavaScript; DOM Manipulation, Asynchronous & Object-Oriented Programming
+- I am experienced in writing reusable, scalable code with React
+- I can integrate with back-end APIs based on the knowledge of Node.js, Express.js, Databases -->
 
 <!-- #### Connect with me:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/> -->
