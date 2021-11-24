@@ -6,12 +6,14 @@
 👉 [Random Picker](https://jeonghaeun3263.github.io/random-picker-web-v1/)
 
 - I would love to share what I have learned with people, 
-so I am working on the **'All about OOO in one page' project!** <br />
+so I keep updating the **'All about OOO in one page'** repository on Github <br />
 👉 [JavaScript](https://github.com/JeongHaeun3263/learn-javascript) <br />
 👉 [React](https://github.com/JeongHaeun3263/learn-react)
 
-<!-- #### Connect with me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> -->
+- I am writing a blog post because I want to help other developers and contribute to the developer community <br />
+*Recent post* <br />
+👉 [How to Display a List in React
+](https://jhe3263.hashnode.dev/how-to-display-a-list-in-react)
 
 #### Languages and Tools:
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
