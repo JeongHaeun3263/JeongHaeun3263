@@ -13,7 +13,7 @@ so I keep updating the **'All about OOO in one page'** repository on Github <br 
 - I am writing a blog post because I want to help other developers and contribute to the developer community <br />
 *Recent post* <br />
 👉 [How to Display a List in React
-](https://jhe3263.hashnode.dev/how-to-display-a-list-in-react)
+](https://medium.com/@jhe3263/how-to-display-a-list-in-react-9888d488eb22)
 
 #### Languages and Tools:
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
