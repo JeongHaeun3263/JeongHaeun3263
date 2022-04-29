@@ -22,8 +22,8 @@ I am Grace, Frontend developer, living in Toronto 🇨🇦
 <i>Create reusable Modal Component using Portals</i>
 - [Useful JavaScript String Methods](https://www.gracehaeun.com/blog/useful-javaScript-string-methods) </br>
 <i> with JavaScript string methods cheat sheet</i> </br>
-- [JavaScript Objects Basics](https://www.gracehaeun.com/blog/javaScript-objects-basics)
-<i>What are objects in JavaScript?</i> </br>
+- [JavaScript Objects Basics](https://www.gracehaeun.com/blog/javaScript-objects-basics) </br>
+<i>What are objects in JavaScript?</i> 
 
 #### Website:
 https://www.gracehaeun.com
